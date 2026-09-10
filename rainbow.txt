@@ -7,3 +7,4 @@ do you know about your tru colors?
 3. blue
 4. green
 5. yellow
+6. orange
