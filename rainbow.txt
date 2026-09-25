@@ -1,0 +1,11 @@
+hello rainbow.
+do you know about your true colors?
+
+
+1. violet
+2. indigo
+3. blue
+4. green
+5. yellow
+6. orange
+7. red
